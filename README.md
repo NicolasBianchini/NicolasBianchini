@@ -6,7 +6,7 @@
 <p><em> Analysis and systems development  <a href="https://www.unisinos.br/">Unisinos Porto Alegre</a> <em> </p>
 
 [![Twitter: N_Tresoldi](https://img.shields.io/twitter/follow/N_Tresoldi?style=social)](https://twitter.com/N_Tresoldi)
-[![GitHub Nicolas](https://img.shields.io/github/followers/Nicolas?label=follow&style=social)](https://github.com/NicolasTresoldi)
+[![GitHub Nicolas](https://img.shields.io/github/followers/Nicolas?label=follow&style=social)](https://github.com/NicolasBianchini)
 
 
 <h1>A little more about me...</h1> 
