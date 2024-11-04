@@ -25,6 +25,9 @@
     <li>CSS</li>
     <li>Js</li>
     <li>React.Js</li>
+    <li>React.Ts</li>
+    <li>Node.Js</li>
+    <li>Python</li>
   </ul>
 </body>
 </html>
