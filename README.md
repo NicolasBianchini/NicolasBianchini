@@ -13,23 +13,20 @@
 <h1>A little more about me...</h1> 
 
 ```javascript
-<!DOCTYPE html>
-<html>
-<head>
-  <title>Information about Nicolas</title>
-</head>
-<body>
-  <p>Pronomes: He / Him</p>
-  <p>Code Languages:</p>
-  <ul>
-    <li>HTML</li>
-    <li>CSS</li>
-    <li>Js</li>
-    <li>React.Js</li>
-    <li>React.Ts</li>
-    <li>Node.Js</li>
-    <li>Python</li>
-  </ul>
-</body>
-</html>
+function DesenvolvedorFullStack() {
+    return {
+        nome: "Nicolas Bianchini Tresoldi",
+        titulo: "Desenvolvedor Full Stack 🚀",
+        tecnologias: ["JavaScript", "Node.js", "React", "SQL"],
+        contato: {
+            email: "nicolastresoldi@gmail.com"
+        },
+        mensagem: function() {
+            return `Criando soluções modernas e eficientes!`;
+        }
+    };
+}
+
+const dev = DesenvolvedorFullStack();
+console.log(dev.mensagem());
 ```
