@@ -2,8 +2,9 @@
 
 
 <h2> Ola, me chamo Nicolas Tresoldi!</h2>
-<p><em> Analise e Desenvolvimento de Sistemas  <a href="https://www.unisinos.br/">Unisinos Porto Alegre</a><em> </p>
-<p><em> Ciência da Computação <a href="https://www.cesuca.edu.br/"> Cesuca Cachoeirinha</a> </em></p> 
+<p>Estou Cursando.</p>
+<p><em>Analise e Desenvolvimento de Sistemas <a href="https://www.unisinos.br/">Unisinos Porto Alegre</a><em> </p>
+<p><em>Ciência da Computação <a href="https://www.cesuca.edu.br/"> Cesuca Cachoeirinha</a> </em></p> 
 
 
 <h1>Um pouco mais sobre mim</h1> 
