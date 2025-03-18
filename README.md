@@ -1,12 +1,12 @@
 <!-- NicolasTresoldi/Nicolas is a special repository: its README.md will appear on your profile! -->
 
 
-<h2> Hi, I'm Nicolas Tresoldi!</h2>
-<p><em> Analysis and systems development  <a href="https://www.unisinos.br/">Unisinos Porto Alegre</a><em> </p>
-<p><em> Computer Science <a href="https://www.cesuca.edu.br/"> Cesuca Cachoeirinha</a> </em></p> 
+<h2> Ola, me chamo Nicolas Tresoldi!</h2>
+<p><em> Analise e Desenvolvimento de Sistemas  <a href="https://www.unisinos.br/">Unisinos Porto Alegre</a><em> </p>
+<p><em> Ciência da Computação <a href="https://www.cesuca.edu.br/"> Cesuca Cachoeirinha</a> </em></p> 
 
 
-<h1>A little more about me...</h1> 
+<h1>Um pouco mais sobre mim</h1> 
 
 ```javascript
 function DesenvolvedorFullStack() {
