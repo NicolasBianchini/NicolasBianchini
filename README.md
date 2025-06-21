@@ -13,7 +13,7 @@ function DesenvolvedorFullStack() {
     return {
         nome: "Nicolas Bianchini Tresoldi",
         titulo: "Desenvolvedor Full Stack 🚀",
-        tecnologias: ["JavaScript", "Node.js", "React", "SQL"],
+        tecnologias: ["JavaScript", "Node.js", "React", "SQL", "Firebase", "TypeScript", "Tailwind"],
         contato: {
             email: "nicolastresoldi@gmail.com"
         },
