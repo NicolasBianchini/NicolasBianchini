@@ -116,75 +116,7 @@ const metricas = {
 };
 ```
 
----
 
-## 🚀 **Projetos dos Quais Tenho Orgulho**
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🎮 GameHub</h3>
-      <div align="center">
-        <a href="https://github.com/NicolasBianchini/gamehub" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicolasBianchini&repo=gamehub&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF" width="100%" alt="GameHub"/>
-        </a>
-      </div>
-      <p align="center">
-        <strong>React • TypeScript • Node.js • MongoDB</strong>
-        <br>
-        <em>Uma plataforma de jogos onde jogadores se conectam e competem</em>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">📱 TaskManager</h3>
-      <div align="center">
-        <a href="https://github.com/NicolasBianchini/taskmanager" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicolasBianchini&repo=taskmanager&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF" width="100%" alt="TaskManager"/>
-        </a>
-      </div>
-      <p align="center">
-        <strong>React • Firebase • Tailwind CSS</strong>
-        <br>
-        <em>Gerenciamento inteligente de tarefas com colaboração em tempo real</em>
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
-## 💡 **Um Dia na Minha Vida**
-
-```javascript
-// Minha sessão típica de código
-function sessaoDeCodigo() {
-  const fases = [
-    "💭 Planejando a arquitetura",
-    "🚀 Escrevendo a primeira linha de código",
-    "🐛 Encontrando bugs (eles me encontram)",
-    "☕ Pausa para café (essencial)",
-    "🔧 Corrigindo bugs",
-    "🎉 Funcionou! (finalmente)",
-    "📝 Documentando (se eu lembrar)"
-  ];
-  
-  return fases.map(fase => {
-    console.log(`${fase}...`);
-    return "Ainda codando...";
-  });
-}
-
-// Meu processo de debug
-const processoDebug = {
-  passo1: "console.log('O que é isso...')",
-  passo2: "console.log('Por que isso está acontecendo?')", 
-  passo3: "console.log('Ah espera, vejo o problema')",
-  passo4: "console.log('Corrigido! 🎉')",
-  passo5: "Remover todos os console.logs"
-};
-```
-
----
 
 ## 🎯 **O Que Estou Fazendo Agora**
 
