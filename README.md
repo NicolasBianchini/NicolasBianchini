@@ -71,7 +71,9 @@ console.log("🚀 Pronto para criar algo incrível!");
 
 ---
 
-## 📊 **Estatísticas e Atividade no GitHub**
+
+
+## 📅 **Minha Tabela de Commits**
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NicolasBianchini&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF" alt="GitHub Stats" />
@@ -79,9 +81,7 @@ console.log("🚀 Pronto para criar algo incrível!");
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NicolasBianchini&theme=radical&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=00D4FF&currStreakNum=FFFFFF&currStreakLabel=00D4FF&sideNums=FFFFFF&sideLabels=00D4FF&dates=FFFFFF" alt="GitHub Streak" />
 </div>
 
----
-
-## 📅 **Minha Tabela de Commits**
+### 📊 **Gráfico de Contribuições**
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=NicolasBianchini&theme=radical&hide_border=true&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FFFFFF&area=true&area_color=00D4FF&area_opacity=0.1" alt="Activity Graph" />
