@@ -87,34 +87,7 @@ console.log("🚀 Pronto para criar algo incrível!");
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=NicolasBianchini&theme=radical&hide_border=true&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FFFFFF&area=true&area_color=00D4FF&area_opacity=0.1" alt="Activity Graph" />
 </div>
 
-### 📈 **Histórico de Commits (Últimos 30 dias)**
 
-| Data | Commits | Status | Descrição |
-|------|---------|--------|-----------|
-| Hoje | 5 | 🟢 Ativo | Bug fixes e melhorias no projeto principal |
-| Ontem | 3 | 🟢 Ativo | Implementação de novas features |
-| 2 dias atrás | 0 | 🔴 Inativo | Dia de estudo e planejamento |
-| 3 dias atrás | 7 | 🟢 Ativo | Refatoração de código |
-| 4 dias atrás | 2 | 🟡 Moderado | Documentação e testes |
-| 5 dias atrás | 4 | 🟢 Ativo | Deploy de nova versão |
-| 6 dias atrás | 1 | 🟡 Moderado | Pequenos ajustes |
-| 7 dias atrás | 6 | 🟢 Ativo | Desenvolvimento de API |
-| 8 dias atrás | 0 | 🔴 Inativo | Fim de semana de descanso |
-| 9 dias atrás | 8 | 🟢 Ativo | Sprint intenso de desenvolvimento |
-
-### 🎯 **Métricas de Produtividade**
-
-```javascript
-const metricas = {
-  commitsSemana: 28,
-  linhasAdicionadas: 1250,
-  linhasRemovidas: 450,
-  projetosAtivos: 3,
-  tempoMedioCommit: "2.5 horas",
-  horarioPico: "22:00 - 02:00",
-  bebidaPreferida: "Café ☕"
-};
-```
 
 
 
