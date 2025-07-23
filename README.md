@@ -10,7 +10,7 @@
 // 🎯 Minha vida em código
 const nicolas = {
   nome: "Nicolas Bianchini Tresoldi",
-  idade: 22,
+  idade: 20,
   localizacao: "Porto Alegre, RS 🇧🇷",
   cargo: "Desenvolvedor Full Stack",
   
@@ -18,7 +18,6 @@ const nicolas = {
   paixoes: [
     "Construir coisas que importam",
     "Aprender novas tecnologias",
-    "Bom café ☕",
     "Resolver problemas"
   ],
   
@@ -27,7 +26,6 @@ const nicolas = {
     abordagem: "Pragmático mas criativo",
     comunicacao: "Claro e direto",
     estiloTrabalho: "Colaborativo + Independente",
-    humor: "Nível piada de tio 😅"
   },
   
   // O que estou buscando
@@ -113,5 +111,5 @@ console.log("🚀 Pronto para criar algo incrível!");
   
   <br>
   
-  <em>*Última atualização: Janeiro 2025 - Ainda codando, ainda aprendendo* 🚀</em>
+  <em>*Última atualização: Julho 2025 - Ainda codando, ainda aprendendo* 🚀</em>
 </div> 
