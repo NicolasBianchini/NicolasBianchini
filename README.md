@@ -1,115 +1,172 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Oi%2C+eu+sou+o+Nicolas!+%F0%9F%91%8B;Desenvolvedor+Full+Stack+%F0%9F%9A%80;Viciado+em+caf%C3%A9+%F0%9F%A5%94" alt="Typing SVG" />
+
+# Olá, eu sou o Nicolas! 👋
+
+### Desenvolvedor Full Stack • Construindo o futuro uma linha de código por vez 🚀
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolastresoldi/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nicolastresoldi@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NicolasBianchini)
+
 </div>
 
 ---
 
-## 🎭 **O Verdadeiro Eu**
+## 👨‍💻 Sobre Mim
 
-```javascript
-// 🎯 Minha vida em código
-const nicolas = {
-  nome: "Nicolas Bianchini Tresoldi",
-  idade: 20,
-  localizacao: "Porto Alegre, RS 🇧🇷",
-  cargo: "Desenvolvedor Full Stack",
+```typescript
+interface Nicolas {
+  name: string;
+  age: number;
+  location: string;
+  role: "Full Stack Developer";
   
-  // O que me motiva
-  paixoes: [
-    "Construir coisas que importam",
-    "Aprender novas tecnologias",
-    "Resolver problemas"
-  ],
+  education: {
+    current: "Análise e Desenvolvimento de Sistemas - Unisinos";
+    parallel: "Ciência da Computação - Cesuca";
+  };
   
-  // Minha vibe
-  personalidade: {
-    abordagem: "Pragmático mas criativo",
-    comunicacao: "Claro e direto",
-    estiloTrabalho: "Colaborativo + Independente",
-  },
+  passions: [
+    "Construir soluções que fazem diferença",
+    "Transformar ideias em código funcional",
+    "Crescer continuamente como desenvolvedor"
+  ];
   
-  // O que estou buscando
-  objetivos: [
-    "Impactar vidas através do código",
-    "Trabalhar com times incríveis",
-    "Nunca parar de aprender",
-    "Construir algo incrível"
-  ]
-};
-
-console.log("🚀 Pronto para criar algo incrível!");
+  quote: "O código é arte, e o debug é a escultura";
+}
 ```
 
----
-
-## 🎓 **Minha Jornada Educacional**
-
-- **🎯 Análise e Desenvolvimento de Sistemas** - Unisinos Porto Alegre
-- **🧠 Ciência da Computação** - Cesuca Cachoeirinha
-
-*Atualmente aprendendo: Docker, Kubernetes, e tentando entender por que meu código funciona às 3h da manhã mas não às 9h* 🤔
+*20 anos • Porto Alegre, RS 🇧🇷 • Sempre pronto para novos desafios*
 
 ---
 
-## 🛠️ **Meu Arsenal Tecnológico**
+## 🛠️ Stack Tecnológico
 
-### **Magia Frontend**
+### **Frontend**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### **Poder Backend**
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-
-### **Dados e Mais**
+### **Backend & Database**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+
+### **Tools & Others**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-
-
-
-
-
-
-
-
-## 🎯 **O Que Estou Fazendo Agora**
-
-- 🔥 **Atualmente**: Construindo aplicações web incríveis
-- 🎯 **Aprendendo**: Docker, Kubernetes, AWS
-- 💡 **Próximo**: Desenvolvimento mobile com React Native
-- 🚀 **Sonho**: Criar algo que ajude milhões de pessoas
-
----
-
-## 📫 **Vamos Conectar!**
+## 📊 GitHub Stats
 
 <div align="center">
-  <a href="mailto:nicolastresoldi@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="[https://linkedin.com/in/nicolas-tresoldi](https://www.linkedin.com/in/nicolastresoldi/)">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/NicolasBianchini">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+
+![Nicolas's GitHub stats](https://github-readme-stats.vercel.app/api?username=NicolasBianchini&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasBianchini&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=NicolasBianchini&theme=tokyonight&hide_border=true&background=00000000)
+
+</div>
+
+---
+
+## 🎯 Atualmente
+
+- 🚀 **Desenvolvendo** aplicações web robustas e escaláveis
+- 📚 **Estudando** Docker, Kubernetes e Cloud (AWS)
+- 🎯 **Próximo passo** React Native para mobile
+- 💡 **Buscando** oportunidades para impactar vidas através da tecnologia
+
+---
+
+## 💼 Projetos em Destaque
+
+<details>
+  <summary><b>🏢 Aplicação de Advocacia</b></summary>
+  <br>
+  
+  Sistema completo para gestão de processos jurídicos, clientes e agendamentos.
+  
+  **Tech Stack:** Node.js, Express, MySQL
+  
+</details>
+
+<details>
+  <summary><b>🎮 Pequeno Sinal</b></summary>
+  <br>
+  
+  Aplicativo mobile desenvolvido em Flutter para comunicação inclusiva.
+  
+  **Tech Stack:** Flutter, Dart, Firebase
+  
+</details>
+
+<details>
+  <summary><b>🛍️ HotWheels Marketplace</b></summary>
+  <br>
+  
+  Marketplace para colecionadores com sistema de usuários e vendas.
+  
+  **Tech Stack:** TypeScript, React, Tailwind, Firebase
+  
+</details>
+
+---
+
+## 🌱 Estou Aprendendo
+
+- Containerização com Docker
+- Orquestração com Kubernetes  
+- Cloud Computing (AWS)
+- Mobile Development (React Native)
+- Arquiteturas escaláveis
+
+*Sempre aberto para colaborações e novos desafios!*
+
+---
+
+## 📈 Estatísticas de Código
+
+<div align="center">
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%2B%20Lines%20Of%20Code-blue)
+
+[![wakatime](https://wakatime.com/badge/user/NicolasBianchini.svg)](https://wakatime.com/@NicolasBianchini)
+
+</div>
+
+---
+
+## 🤝 Vamos Conectar!
+
+<div align="center">
+
+Tem uma ideia incrível? Vamos conversar! Estou sempre disponível para projetos interessantes.
+
+📧 **Email:** nicolastresoldi@gmail.com  
+💼 **LinkedIn:** [/in/nicolastresoldi](https://www.linkedin.com/in/nicolastresoldi/)  
+🐙 **GitHub:** [@NicolasBianchini](https://github.com/NicolasBianchini)
+
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Obrigado+por+visitar!+%F0%9F%98%8A;Vamos+construir+algo+incr%C3%ADvel+juntos!+%F0%9F%9A%80;P.S.+Caf%C3%A9+est%C3%A1+por+minha+conta+%F0%9F%A5%94" alt="Mensagem de agradecimento" />
-  
-  <br>
-  
-  ⭐ **Se gostou do que viu, deixe uma estrela!** ⭐
-  
-  <br>
-  
-  <em>*Última atualização: Julho 2025 - Ainda codando, ainda aprendendo* 🚀</em>
-</div> 
+
+### ⭐ Obrigado pela visita! ⭐
+
+*Última atualização: Janeiro 2025*
+
+**"Compila uma vez, aja duas vezes."** ☕
+
+Made with ❤️ and lots of ☕ by Nicolas
+
+</div>
