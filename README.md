@@ -17,9 +17,9 @@
 
 ```typescript
 interface Nicolas {
-  name: string;
-  age: number;
-  location: string;
+  name: Nicolas Tresoldi;
+  age: 21;
+  location: Porto Alegre RS;
   role: "Full Stack Developer";
   
   education: {
