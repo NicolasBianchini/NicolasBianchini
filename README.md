@@ -83,8 +83,7 @@ interface Nicolas {
 ## 🎯 Atualmente
 
 - 🚀 **Desenvolvendo** aplicações web robustas e escaláveis
-- 📚 **Estudando** Docker, Kubernetes e Cloud (AWS)
-- 🎯 **Próximo passo** React Native para mobile
+- 📚 **Estudando** Java
 - 💡 **Buscando** oportunidades para impactar vidas através da tecnologia
 
 ---
@@ -135,16 +134,6 @@ interface Nicolas {
 
 ---
 
-## 📈 Estatísticas de Código
-
-<div align="center">
-
-![GitHub Commits](https://img.shields.io/badge/GitHub%20Commits-1000%2B-brightgreen?style=for-the-badge)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%2B%20Lines%20Of%20Code-blue?style=for-the-badge)
-
-</div>
-
 *"O código é poesia escrita para computadores entenderem"* ✨
 
 ---
@@ -162,17 +151,4 @@ Tem uma ideia incrível? Vamos conversar! Estou sempre disponível para projetos
 
 </div>
 
----
-
-<div align="center">
-
-### ⭐ Obrigado pela visita! ⭐
-
-*Última atualização: Janeiro 2025*
-
-**"Compila uma vez, aja duas vezes."** ☕
-
-Made with ❤️ and lots of ☕ by Nicolas
-
-</div>
 
