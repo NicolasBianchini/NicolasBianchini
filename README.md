@@ -37,7 +37,7 @@ interface Nicolas {
 }
 ```
 
-*20 anos • Porto Alegre, RS 🇧🇷 • Sempre pronto para novos desafios*
+*21 anos • Porto Alegre, RS 🇧🇷 • Sempre pronto para novos desafios*
 
 ---
 
