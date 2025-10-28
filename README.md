@@ -68,15 +68,27 @@ interface Nicolas {
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" align="center">
 
-![Nicolas's GitHub stats](https://github-readme-stats.vercel.app/api?username=NicolasBianchini&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NicolasBianchini&show_icons=true&theme=radical&hide_border=true&count_private=true&hide=issues&bg_color=0D1117)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasBianchini&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000)
+</td>
+<td width="50%" align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=NicolasBianchini&theme=tokyonight&hide_border=true&background=00000000)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasBianchini&layout=compact&theme=radical&hide_border=true&hide=html&bg_color=0D1117)
 
-</div>
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=NicolasBianchini&theme=radical&hide_border=true&fire=FF6B6B&sideNums=FF6B6B&dates=FFF&background=0D1117)
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -122,18 +134,6 @@ interface Nicolas {
 
 ---
 
-## 🌱 Estou Aprendendo
-
-- Containerização com Docker
-- Orquestração com Kubernetes  
-- Cloud Computing (AWS)
-- Mobile Development (React Native)
-- Arquiteturas escaláveis
-
-*Sempre aberto para colaborações e novos desafios!*
-
----
-
 *"O código é poesia escrita para computadores entenderem"* ✨
 
 ---
@@ -151,4 +151,17 @@ Tem uma ideia incrível? Vamos conversar! Estou sempre disponível para projetos
 
 </div>
 
+---
+
+<div align="center">
+
+### ⭐ Obrigado pela visita! ⭐
+
+*Última atualização: Janeiro 2025*
+
+**"Compila uma vez, aja duas vezes."** ☕
+
+Made with ❤️ and lots of ☕ by Nicolas
+
+</div>
 
