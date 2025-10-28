@@ -150,18 +150,3 @@ Tem uma ideia incrível? Vamos conversar! Estou sempre disponível para projetos
 🐙 **GitHub:** [@NicolasBianchini](https://github.com/NicolasBianchini)
 
 </div>
-
----
-
-<div align="center">
-
-### ⭐ Obrigado pela visita! ⭐
-
-*Última atualização: Janeiro 2025*
-
-**"Compila uma vez, aja duas vezes."** ☕
-
-Made with ❤️ and lots of ☕ by Nicolas
-
-</div>
-
