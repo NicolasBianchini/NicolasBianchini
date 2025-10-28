@@ -4,6 +4,7 @@
 
 ### Desenvolvedor Full Stack • Construindo o futuro uma linha de código por vez 🚀
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=netlify&logoColor=white)](https://nicolastresoldi.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolastresoldi/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nicolastresoldi@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NicolasBianchini)
@@ -54,6 +55,7 @@ interface Nicolas {
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 
 ### **Tools & Others**
@@ -137,11 +139,13 @@ interface Nicolas {
 
 <div align="center">
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%2B%20Lines%20Of%20Code-blue)
+![GitHub Commits](https://img.shields.io/badge/GitHub%20Commits-1000%2B-brightgreen?style=for-the-badge)
 
-[![wakatime](https://wakatime.com/badge/user/NicolasBianchini.svg)](https://wakatime.com/@NicolasBianchini)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%2B%20Lines%20Of%20Code-blue?style=for-the-badge)
 
 </div>
+
+*"O código é poesia escrita para computadores entenderem"* ✨
 
 ---
 
@@ -151,6 +155,7 @@ interface Nicolas {
 
 Tem uma ideia incrível? Vamos conversar! Estou sempre disponível para projetos interessantes.
 
+🌐 **Portfolio:** [nicolastresoldi.netlify.app](https://nicolastresoldi.netlify.app/)  
 📧 **Email:** nicolastresoldi@gmail.com  
 💼 **LinkedIn:** [/in/nicolastresoldi](https://www.linkedin.com/in/nicolastresoldi/)  
 🐙 **GitHub:** [@NicolasBianchini](https://github.com/NicolasBianchini)
@@ -170,3 +175,4 @@ Tem uma ideia incrível? Vamos conversar! Estou sempre disponível para projetos
 Made with ❤️ and lots of ☕ by Nicolas
 
 </div>
+
