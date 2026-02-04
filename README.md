@@ -66,32 +66,6 @@ interface Nicolas {
 
 ---
 
-## 📊 GitHub Stats
-
-<table>
-<tr>
-<td width="50%" align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NicolasBianchini&show_icons=true&theme=radical&hide_border=true&count_private=true&hide=issues&bg_color=0D1117)
-
-</td>
-<td width="50%" align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasBianchini&layout=compact&theme=radical&hide_border=true&hide=html&bg_color=0D1117)
-
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=NicolasBianchini&theme=radical&hide_border=true&fire=FF6B6B&sideNums=FF6B6B&dates=FFF&background=0D1117)
-
-</td>
-</tr>
-</table>
-
----
-
 ## 🎯 Atualmente
 
 - 🚀 **Desenvolvendo** Softwares robustos e escaláveis
