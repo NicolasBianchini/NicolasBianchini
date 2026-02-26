@@ -81,6 +81,6 @@ Atualmente, formando em Análise e Desenvolvimento de Sistemas na Unisinos e cur
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/NicolasBianchini/NicolasBianchini/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/NicolasBianchini/NicolasBianchini/blob/output/github-contribution-grid-snake.gif)
 
 </div>
