@@ -4,7 +4,6 @@
 
 name: Generate Snake
 
-# Controls when the action will run.
 on:
   schedule:
      - cron: "*/5 * * * *"
