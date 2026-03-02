@@ -61,7 +61,7 @@ Atualmente, formando em Análise e Desenvolvimento de Sistemas na Unisinos e cur
 
 <div align="center">
 
-[![Next](https://img.icons8.com/?size=50&id=yUdJlcKanVbh&format=png&color=000000)]()
+[![Next](https://img.icons8.com/?size=50&id=yUdJlcKanVbh&format=png&color=ffffff)]()
 [![Vite](https://img.icons8.com/?size=50&id=dJjTWMogzFzg&format=png&color=000000)]()
 [![Flutter](https://img.icons8.com/?size=50&id=7I3BjCqe9rjG&format=png&color=000000)]()
 
