@@ -49,6 +49,9 @@ Atualmente, formando em Análise e Desenvolvimento de Sistemas na Unisinos e cur
 
 [![Java](https://img.icons8.com/?size=50&id=13679&format=png&color=000000)]()
 [![Python](https://img.icons8.com/?size50&id=13441&format=png&color=000000)]()
+[![JavaScript](https://img.icons8.com/?size=50&id=108784&format=png&color=000000)]()
+[![TypeScript](https://img.icons8.com/?size=50&id=uJM6fQYqDaZK&format=png&color=000000)]()
+
 
 </div>
 
