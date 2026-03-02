@@ -75,7 +75,7 @@ Atualmente, formando em Análise e Desenvolvimento de Sistemas na Unisinos e cur
 [![IntelliJ](https://img.icons8.com/?size=50&id=61466&format=png&color=000000)]()
 [![XCode](https://img.icons8.com/?size=50&id=51974&format=png&color=000000)]()
 [![Trello](https://img.icons8.com/?size=50&id=21049&format=png&color=000000)]()
-[![Notion](https://img.icons8.com/?size=50&id=nvtEH6DpqruC&format=png&color=000000)]()
+[![Notion](https://img.icons8.com/?size=50&id=nvtEH6DpqruC&format=png&color=ffffff)]()
 [![Figma](https://img.icons8.com/?size=50&id=zfHRZ6i1Wg0U&format=png&color=000000)]()
 [![Postgree](https://img.icons8.com/?size=50&id=Pv4IGT0TSpt8&format=png&color=000000)]()
 [![Office](https://img.icons8.com/?size=50&id=37619&format=png&color=000000)]()
