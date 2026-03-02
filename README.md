@@ -63,6 +63,7 @@ Atualmente, formando em Análise e Desenvolvimento de Sistemas na Unisinos e cur
 
 [![Next](https://img.icons8.com/?size=50&id=yUdJlcKanVbh&format=png&color=000000)]()
 [![Vite](https://img.icons8.com/?size=50&id=dJjTWMogzFzg&format=png&color=000000)]()
+[![Flutter](https://img.icons8.com/?size=50&id=7I3BjCqe9rjG&format=png&color=000000)]()
 
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -72,6 +73,7 @@ Atualmente, formando em Análise e Desenvolvimento de Sistemas na Unisinos e cur
 
 [![VSCode](https://img.icons8.com/?size=50&id=9OGIyU8hrxW5&format=png&color=000000)]()
 [![IntelliJ](https://img.icons8.com/?size=50&id=61466&format=png&color=000000)]()
+[![XCode](https://img.icons8.com/?size=50&id=51974&format=png&color=000000)]()
 [![Trello](https://img.icons8.com/?size=50&id=21049&format=png&color=000000)]()
 [![Notion](https://img.icons8.com/?size=50&id=nvtEH6DpqruC&format=png&color=000000)]()
 [![Figma](https://img.icons8.com/?size=50&id=zfHRZ6i1Wg0U&format=png&color=000000)]()
