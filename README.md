@@ -5,7 +5,7 @@
 
 ## Sobre mim
 
-Atualmente, formando em Análise e Desenvolvimento de Sistemas na Unisinos e cursando Ciencias da Computação na Cesuca. Proatividade, comunicação e liderança em projetos acadêmicos são características marcantes, sempre visando o bom desenvolvimento. Participação ativa em grupos de eventos futuros e desafios, buscando aprimorar habilidades em computação e inovação.
+Atualmente, formado em Análise e Desenvolvimento de Sistemas na Unisinos e cursando Ciencias da Computação na Cesuca. Proatividade, comunicação e liderança em projetos acadêmicos são características marcantes, sempre visando o bom desenvolvimento. Participação ativa em grupos de eventos futuros e desafios, buscando aprimorar habilidades em computação e inovação.
 
 <div align="center">
 
